@@ -1,0 +1,13 @@
+#button {
+  border: 'none'
+}
+
+.buttonOver {
+  background-color: rgb(151, 42, 42) !important ;
+}
+
+#pageConfigs {
+  font-family:'arial';
+  height:'800px';
+  width:'auto';
+  background-color: '#6E6B80';}
